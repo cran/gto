@@ -1,0 +1,12 @@
+09427916cca75e0b019b9b2aa8ee4b92 *DESCRIPTION
+f5f7200f6aec75bc01169f0296fe4874 *NAMESPACE
+07836064aaa96f5116c191468ed30258 *NEWS.md
+b56ff2b193ecba52f9ec7f3b10cca008 *R/utils-pipe.R
+47f3c419190f112c62c56dc1c8228b45 *R/word.R
+04450a87f9c825a0028a0ae7ace429c1 *README.md
+27bf493ada8be48690e967f7fd13ce65 *man/body_add_gt.Rd
+3858cd88b262fe139499985def67f3a8 *man/figures/gto.png
+d249f971774630d1625a0b48aa8ba81f *man/figures/logo.png
+774d9de8e95aa151215efcd304549d41 *man/pipe.Rd
+71f01cace72564e4e400ffc4738804cd *tests/testthat.R
+a4c690e3add3df6f69eaa224b55a303a *tests/testthat/test-word.R
