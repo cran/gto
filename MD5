@@ -1,12 +1,12 @@
-7eec76d3e5ac7ecd0e3cf88a4c30b5cf *DESCRIPTION
+ea0572cab2cfebd0ebb29ad559fd4eae *DESCRIPTION
 2af656275e77e6cfe37177ba52aee482 *NAMESPACE
-de5c7889bee10b28e9df59f8f8f30627 *NEWS.md
+5467485bac7f5b14655abb2c47672672 *NEWS.md
 b56ff2b193ecba52f9ec7f3b10cca008 *R/utils-pipe.R
-47f3c419190f112c62c56dc1c8228b45 *R/word.R
+be2c138e6fe72f2183c98bd3960458f9 *R/word.R
 1dedc8a408c7d3687d0598be9143cb9b *README.md
 e10c407489e5fb0a66eef0486deffa4d *man/body_add_gt.Rd
 3858cd88b262fe139499985def67f3a8 *man/figures/gto.png
 d249f971774630d1625a0b48aa8ba81f *man/figures/logo.png
 774d9de8e95aa151215efcd304549d41 *man/pipe.Rd
 71f01cace72564e4e400ffc4738804cd *tests/testthat.R
-8ac6062340e4cc01155b9743afc7fedb *tests/testthat/test-word.R
+0ef65c53106c08798ade09bb2342950c *tests/testthat/test-word.R
